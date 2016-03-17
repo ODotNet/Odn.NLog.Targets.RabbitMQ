@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Odn.NLog.Targets.RabbitMQ</id>
+    <version>$version$</version>
+    <title>Odn:NLog.Targets.RabbitMQ</title>
+    <authors>ODotNet Team</authors>
+    <owners>ODotNet Team</owners>
+    <description>NLog Targets for RabbitMQ.</description>
+    <projectUrl>http://www.odotnet.com</projectUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/e9e4ebb221ac2210f064f22103a3b73b</iconUrl>
+    <tags>NLog Targets,RabbitMQ,ODotNet,MStack.Club</tags>
+  </metadata>
+</package>
