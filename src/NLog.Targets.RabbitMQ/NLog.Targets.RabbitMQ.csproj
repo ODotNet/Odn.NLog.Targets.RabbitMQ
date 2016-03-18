@@ -348,10 +348,12 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConnectionStringBuilder.cs" />
     <Compile Include="DeliveryMode.cs" />
     <Compile Include="Field.cs" />
     <Compile Include="LoggerExtensions.cs" />
